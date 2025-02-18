@@ -1,0 +1,10 @@
+pandas
+joblib
+nltk
+opencv-python
+numpy
+matplotlib
+wordcloud
+Sastrawi
+scikit-learn
+gensim
